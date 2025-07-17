@@ -1,5 +1,3 @@
-# import Pkg; Pkg.add("PrettyTables")
-
 using Lux, Optimisers, Random, MLDatasets, Statistics, Plots, Flux, Zygote
 
 # -------------------------Question 1 ------------------------------
